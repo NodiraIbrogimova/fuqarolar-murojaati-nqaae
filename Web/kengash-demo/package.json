@@ -1,0 +1,11 @@
+{
+  "name": "kengash-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Jamoatchilik kengashi murojaatlari — qadam-baqadam prototip (DEMO, namunaviy ma'lumotlar)",
+  "scripts": {
+    "start": "node server.js",
+    "deploy": "npx wrangler@4 pages deploy"
+  },
+  "engines": { "node": ">=18" }
+}
