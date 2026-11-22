@@ -1,4 +1,8 @@
-# Cloudflare Pages settings (used only by "npm run deploy")
-name = "kengash-demo"
-pages_build_output_dir = "./public"
-compatibility_date = "2026-11-01"
+{
+  "name": "fuqarolar-murojaati-nqaae",
+  "compatibility_date": "2026-11-22",
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "single-page-application"
+  }
+}
